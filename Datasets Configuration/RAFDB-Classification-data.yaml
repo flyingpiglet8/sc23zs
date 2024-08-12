@@ -1,0 +1,7 @@
+train: "/root/autodl-tmp/RAFDB_YOLO_claassification/train"
+val: "/root/autodl-tmp/RAFDB_YOLO_claassification/valid"
+test: "/root/autodl-tmp/RAFDB_YOLO_claassification/test"
+
+nc: 7
+names: ['surprise', 'fear', 'disgust', 'happiness', 'sadness', 'anger', 'neutral']
+

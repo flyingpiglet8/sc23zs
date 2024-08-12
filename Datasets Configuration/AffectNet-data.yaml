@@ -1,0 +1,13 @@
+data: "/kaggle/input/affectnet-yolo-format/YOLO_format"
+
+train: "/root/autodl-tmp/AffectNet-YOLO/train"
+val: "/root/autodl-tmp/AffectNet-YOLO/valid"
+test: "/root/autodl-tmp/AffectNet-YOLO/test"
+
+nc: 8
+
+names:
+  [
+    "Anger", "Contempt", "Disgust", "Fear", "Happy", "Neutral", "Sad", "Surprise",
+  ]
+

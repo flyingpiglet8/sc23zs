@@ -1,0 +1,7 @@
+train: "/root/autodl-tmp/RAFDB_YOLO-detection/train"
+val: "/root/autodl-tmp/RAFDB_YOLO-detection/valid"
+test: "/root/autodl-tmp/RAFDB_YOLO-detection/test"
+
+nc: 7
+names: ['surprise', 'fear', 'disgust', 'happiness', 'sadness', 'anger', 'neutral']
+

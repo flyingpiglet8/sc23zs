@@ -1,0 +1,7 @@
+train: "/root/autodl-tmp/expression/train"
+val: "/root/autodl-tmp/expression/valid"
+test: "/root/autodl-tmp/expression/test"
+
+nc: 6
+names: ['anger', 'fear', 'happy', 'neutral', 'sad', 'surprise']
+

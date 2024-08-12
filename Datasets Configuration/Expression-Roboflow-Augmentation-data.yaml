@@ -1,0 +1,7 @@
+train: "/root/autodl-tmp/expression_augmentation_rotate_5/train"
+val: "/root/autodl-tmp/expression_augmentation_rotate_5/valid"
+test: "/root/autodl-tmp/expression_augmentation_rotate_5/test"
+
+nc: 6
+names: ['anger', 'fear', 'happy', 'neutral', 'sad', 'surprise']
+
